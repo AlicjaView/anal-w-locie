@@ -1,19 +1,19 @@
 # analot
-Program napisany w języku Python do analizy wyników gier liczbowych Lotto. Znajdziesz tutaj funkcje analizy najczęściej wypadających liczb oraz sugestie liczb na podstawie statystyk losowań Lotto.
+program napisany w języku Python do analizy wyników gier liczbowych Lotto. Znajdziesz tutaj funkcje analizy najczęściej wypadających liczb oraz sugestie liczb na podstawie statystyk losowań Lotto.
 
-# Jak używać
-1. Sklonuj repozytorium na swój komputer.
+# jak używać
+1. sklonuj repozytorium na swój komputer.
    git clone https://github.com/twoje-username/analot.git
 
-2. Uruchom program w środowisku Python.
+2. uruchom program w środowisku Python.
    python main.py
 
-Zależności:
+zależności:
 Python (3.x)
-Biblioteki: requests, BeautifulSoup
+biblioteki: requests, BeautifulSoup
 
-Autor: Alicja Wójcik
+autor: Alicja Wójcik
 
-Licencja
-Ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz plik LICENSE dla szczegółów.
+licencja
+ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz plik LICENSE dla szczegółów.
 
