@@ -3,7 +3,7 @@ Program napisany w języku Python do analizy wyników gier liczbowych Lotto. Zna
 
 # Jak używać
 1. Sklonuj repozytorium na swój komputer.
-   git clone https://github.com/twoje-username/analiza-lotto.git
+   git clone https://github.com/twoje-username/analot.git
 
 2. Uruchom program w środowisku Python.
    python main.py
