@@ -1,4 +1,4 @@
-# anal-w-locie
+# analot
 Program napisany w języku Python do analizy wyników gier liczbowych Lotto. Znajdziesz tutaj funkcje analizy najczęściej wypadających liczb oraz sugestie liczb na podstawie statystyk losowań Lotto.
 
 # Jak używać
