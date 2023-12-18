@@ -18,3 +18,4 @@ autor: Alicja Wójcik
 licencja
 ten projekt jest dostępny na licencji GNU General Public License (GPL). Zobacz plik LICENSE dla szczegółów.
 
+MASZ POMYSŁ, JAKIE JESZCZE STATYSTYKI UWZGLĘDNIĆ W PROGRAMIE? NAPISZ DO MNIE!
