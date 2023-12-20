@@ -5,9 +5,7 @@ program pobiera najbardziej atualne dane i wypluwa 6 liczb na podstawie kilku r�
 
 # jak używać
 1. sklonuj repozytorium na swój komputer.
-   git clone https://github.com/twoje-username/analot.git
 2. uruchom program w środowisku Python.
-   python main.py
 
 zależności:
 Python (3.x)
